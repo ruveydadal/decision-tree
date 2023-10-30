@@ -17,12 +17,12 @@ Karar ağacı regresyon modeli, iş deneyimi ile maaş arasındaki ilişkiyi ağ
 Karar ağacı regresyonunun kullanımı ve sonuçların görselleştirilmesi bu bölümde bulunur.
 
 ## Kullanım
-*Repo'yu bilgisayarınıza klonlayın veya ZIP dosyası olarak indirin.
-*Anaconda veya Jupyter Notebook gibi bir Python geliştirme ortamını kullanarak regresyon_modelleri.py dosyasını çalıştırın.
-*Verilerinizi kendi veri dosyanızla değiştirebilir ve regresyon modellerini uyarlayabilirsiniz.
+* Repo'yu bilgisayarınıza klonlayın veya ZIP dosyası olarak indirin.
+* Anaconda veya Jupyter Notebook gibi bir Python geliştirme ortamını kullanarak regresyon_modelleri.py dosyasını çalıştırın.
+* Verilerinizi kendi veri dosyanızla değiştirebilir ve regresyon modellerini uyarlayabilirsiniz.
 
 ## Gereksinimler
-*Bu proje, aşağıdaki Python kütüphanelerine ihtiyaç duyar:
+* Bu proje, aşağıdaki Python kütüphanelerine ihtiyaç duyar:
 
 - numpy
 - matplotlib
